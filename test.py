@@ -1,6 +1,6 @@
 print("hello world")
-for i in range (1,20,2):
-    print(i,end=' ')
+def looper():
+    for i in range (1,20,2):
+        print("jfklf;v")
 
-def helo():
-    print("jfkddfvfk")
+looper()
